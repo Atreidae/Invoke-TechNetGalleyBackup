@@ -6,7 +6,7 @@ This is a tool to backup content from the TechNet gallery before it is taken off
 ## Installation
 Download Invoke-TechNetGalleyBackup.zip from the releases page and unzip. You will also need to download James Cussens Technet migration tool from here https://www.myteamslab.com/2020/05/technet-gallery-to-github-migration-tool.html
 
-More information is available over <a href="https://www.UcMadScientist.com/preparing-for-teams-export-your-on-prem-lis-data-for-cqd/">here</a> 
+More information is available over <a href="https://www.UcMadScientist.com/technet-is-doomed!-how-to-save-your-favourite-tools-easily/">here</a> 
 
 ## Usage
 Place both Invoke-TechNetGalleyBackup.ps1 and James Cussens TechNet-Gallery-to-GitHub-Migrator.ps1 in the folder you want to store the archive of the TechNet Gallery.

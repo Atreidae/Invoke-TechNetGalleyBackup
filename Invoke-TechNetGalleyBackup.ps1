@@ -72,7 +72,7 @@ $VerbosePreference                  = 'SilentlyContinue'
 [String]$ScriptVersion              = '1.0.0'
 [string]$GithubRepo                 = 'Invoke-TechNetGalleyBackup'
 [string]$GithubBranch               = 'master'
-[string]$BlogPost                   = 'https://www.UcMadScientist.com/preparing-for-teams-export-your-on-prem-lis-data-for-cqd/'  #todo
+[string]$BlogPost                   = 'technet-is-doomed!-how-to-save-your-favourite-tools-easily' 
 
 Function Write-Log
 {
